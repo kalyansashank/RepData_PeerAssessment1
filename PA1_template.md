@@ -5,8 +5,7 @@ output:
     keep_md: true
 ---
 
-Set your working directory to the directory where the course project repository 
-was cloned from Github.
+# Reproducible Research : Peer Assessment 1
 
 ## Loading and preprocessing the data
 
